@@ -1,2 +1,3 @@
 # ProjetosCG
-Repósitorio dos projetos da disciplina
+
+Júlia Martins - Computação Gráfica
