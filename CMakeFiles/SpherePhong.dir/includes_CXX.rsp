@@ -1,0 +1,1 @@
+-IC:/FACULD~1/CCGHIB~1/include -IC:/FACULD~1/CCGHIB~1/common -IC:/FACULD~1/CCGHIB~1/include/glad -I"C:/FACULD~1/CCGHIB~1/build/_deps/glm-src" -IC:/FACULD~1/CCGHIB~1/build/_deps/STB_IM~2 -I"C:/FACULD~1/CCGHIB~1/build/_deps/glfw-src/include"
