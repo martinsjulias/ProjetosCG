@@ -49,8 +49,7 @@ set(EXERCISES
     SpherePhong
     Cubo3D
     Textura3D
-   
-)
+   )
 
 add_compile_options(-Wno-pragmas)
 

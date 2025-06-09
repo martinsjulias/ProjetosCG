@@ -31,6 +31,25 @@ using namespace glm;
 
 #include <cmath>
 
+#include <vector>
+#include <fstream>
+#include <sstream>
+#include <cstdio> // Para sscanf
+
+struct Vertex {
+    glm::vec3 position;
+    glm::vec2 texCoord;
+    glm::vec3 normal;
+};
+
+struct Material {
+    glm::vec3 Ka = glm::vec3(0.1f, 0.1f, 0.1f);
+    glm::vec3 Kd = glm::vec3(1.0f, 0.0f, 0.0f);
+    glm::vec3 Ks = glm::vec3(1.0f, 1.0f, 1.0f);
+    float Ns = 32.0f;
+    std::string texturePath;
+};
+
 // Protótipo da função de callback de teclado
 void key_callback(GLFWwindow *window, int key, int scancode, int action, int mode);
 
@@ -44,6 +63,87 @@ GLuint generateSphere(float radius, int latSegments, int lonSegments, int &nVert
  
 // Dimensões da janela (pode ser alterado em tempo de execução)
 const GLuint WIDTH = 800, HEIGHT = 800;
+
+bool loadOBJ(const std::string& path, std::vector<Vertex>& vertices) {
+    std::ifstream file(path);
+    if (!file.is_open()) return false;
+
+    std::vector<glm::vec3> positions;
+    std::vector<glm::vec2> texCoords;
+    std::vector<glm::vec3> normals;
+
+    std::string line;
+    while (std::getline(file, line)) {
+        std::istringstream iss(line);
+        std::string type;
+        iss >> type;
+
+        if (type == "v") {
+            glm::vec3 pos;
+            iss >> pos.x >> pos.y >> pos.z;
+            positions.push_back(pos);
+        } else if (type == "vt") {
+            glm::vec2 tex;
+            iss >> tex.x >> tex.y;
+            texCoords.push_back(tex);
+        } else if (type == "vn") {
+            glm::vec3 norm;
+            iss >> norm.x >> norm.y >> norm.z;
+            normals.push_back(norm);
+        } else if (type == "f") {
+            std::string v[3];
+            iss >> v[0] >> v[1] >> v[2];
+            for (int i = 0; i < 3; ++i) {
+                int pi=0, ti=0, ni=0;
+                sscanf(v[i].c_str(), "%d/%d/%d", &pi, &ti, &ni);
+                Vertex vert;
+                vert.position = positions[pi-1];
+                vert.texCoord = texCoords[ti-1];
+                vert.normal = normals[ni-1];
+                vertices.push_back(vert);
+            }
+        }
+    }
+    return true;
+}
+
+bool loadMTL(const std::string& path, Material& material) {
+    std::ifstream file(path);
+    if (!file.is_open()) return false;
+
+    std::string line;
+    while (std::getline(file, line)) {
+        std::istringstream iss(line);
+        std::string type;
+        iss >> type;
+        if (type == "Ka") iss >> material.Ka.r >> material.Ka.g >> material.Ka.b;
+        else if (type == "Kd") iss >> material.Kd.r >> material.Kd.g >> material.Kd.b;
+        else if (type == "Ks") iss >> material.Ks.r >> material.Ks.g >> material.Ks.b;
+        else if (type == "Ns") iss >> material.Ns;
+        else if (type == "map_Kd") iss >> material.texturePath;
+    }
+    return true;
+}
+
+GLuint createVAO(const std::vector<Vertex>& vertices) {
+    GLuint VAO, VBO;
+    glGenVertexArrays(1, &VAO);
+    glGenBuffers(1, &VBO);
+
+    glBindVertexArray(VAO);
+    glBindBuffer(GL_ARRAY_BUFFER, VBO);
+    glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(Vertex), vertices.data(), GL_STATIC_DRAW);
+
+    glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, sizeof(Vertex), (void*)0);
+    glEnableVertexAttribArray(0);
+    glVertexAttribPointer(1, 2, GL_FLOAT, GL_FALSE, sizeof(Vertex), (void*)offsetof(Vertex, texCoord));
+    glEnableVertexAttribArray(1);
+    glVertexAttribPointer(2, 3, GL_FLOAT, GL_FALSE, sizeof(Vertex), (void*)offsetof(Vertex, normal));
+    glEnableVertexAttribArray(2);
+
+    glBindVertexArray(0);
+    return VAO;
+}
 
 // Código fonte do Vertex Shader (em GLSL): ainda hardcoded
 const GLchar *vertexShaderSource = R"(
@@ -159,8 +259,20 @@ int main()
 	GLuint shaderID = setupShader();
 
 	// Gerando um buffer simples, com a geometria de um triângulo
+	std::vector<Vertex> vertices;
+	Material material;
+	GLuint VAO;
 	int nVertices;
-	GLuint VAO = generateSphere(0.5, 16, 16, nVertices);
+	if (loadOBJ("caminho/para/seu.obj", vertices) && loadMTL("caminho/para/seu.mtl", material)) {
+    VAO = createVAO(vertices);
+    nVertices = vertices.size();
+} else {
+    VAO = generateSphere(0.5, 16, 16, nVertices); // fallback
+    material.Ka = glm::vec3(0.1f, 0.0f, 0.0f);
+    material.Kd = glm::vec3(1.0f, 0.0f, 0.0f);
+    material.Ks = glm::vec3(1.0f, 1.0f, 1.0f);
+    material.Ns = 32.0f;
+}
 
 	// Carregando uma textura e armazenando seu id
 	int imgWidth, imgHeight;
@@ -176,10 +288,10 @@ int main()
 	// Enviar a informação de qual variável armazenará o buffer da textura
 	glUniform1i(glGetUniformLocation(shaderID, "texBuff"), 0);
 
-	glUniform1f(glGetUniformLocation(shaderID, "ka"), ka);
-	glUniform1f(glGetUniformLocation(shaderID, "kd"), kd);
-	glUniform1f(glGetUniformLocation(shaderID, "ks"), ks);
-	glUniform1f(glGetUniformLocation(shaderID, "q"), q);
+glUniform1f(glGetUniformLocation(shaderID, "ka"), material.Ka.r);
+glUniform1f(glGetUniformLocation(shaderID, "kd"), material.Kd.r);
+glUniform1f(glGetUniformLocation(shaderID, "ks"), material.Ks.r);
+glUniform1f(glGetUniformLocation(shaderID, "q"), material.Ns);
 	glUniform3f(glGetUniformLocation(shaderID, "lightPos"), lightPos.x,lightPos.y,lightPos.z);
 	glUniform3f(glGetUniformLocation(shaderID, "camPos"), camPos.x,camPos.y,camPos.z);
 
