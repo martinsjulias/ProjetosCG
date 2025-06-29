@@ -1,0 +1,14 @@
+# Target labels
+ nlohmann_json-populate
+# Source files and their labels
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate-complete.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-download.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-mkdir.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test.rule
+C:/faculdadeCG/ProjetosCG/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update.rule
