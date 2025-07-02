@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/92fc1583-7137-4b78-a263-c963eace89c1)# ProjetosCG
-
 Link Video prova GB - https://drive.google.com/file/d/1-qJO9FGppGSPaFW0YWphaXP6IFs2wi89/view?usp=sharing
 
 Júlia Martins - Computação Gráfica
