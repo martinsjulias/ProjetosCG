@@ -86,133 +86,133 @@ CMakeFiles/Textura3D.dir/src/Textura3D.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/src/Textura3D.cpp.s"
 	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\src\Textura3D.cpp -o CMakeFiles\Textura3D.dir\src\Textura3D.cpp.s
 
-CMakeFiles/Textura3D.dir/common/Src/glad.c.obj: CMakeFiles/Textura3D.dir/flags.make
-CMakeFiles/Textura3D.dir/common/Src/glad.c.obj: CMakeFiles/Textura3D.dir/includes_C.rsp
-CMakeFiles/Textura3D.dir/common/Src/glad.c.obj: C:/faculdadeCG/ProjetosCG/common/Src/glad.c
-CMakeFiles/Textura3D.dir/common/Src/glad.c.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Textura3D.dir/common/Src/glad.c.obj"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/Src/glad.c.obj -MF CMakeFiles\Textura3D.dir\common\Src\glad.c.obj.d -o CMakeFiles\Textura3D.dir\common\Src\glad.c.obj -c C:\faculdadeCG\ProjetosCG\common\Src\glad.c
+CMakeFiles/Textura3D.dir/common/glad.c.obj: CMakeFiles/Textura3D.dir/flags.make
+CMakeFiles/Textura3D.dir/common/glad.c.obj: CMakeFiles/Textura3D.dir/includes_C.rsp
+CMakeFiles/Textura3D.dir/common/glad.c.obj: C:/faculdadeCG/ProjetosCG/common/glad.c
+CMakeFiles/Textura3D.dir/common/glad.c.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Textura3D.dir/common/glad.c.obj"
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/glad.c.obj -MF CMakeFiles\Textura3D.dir\common\glad.c.obj.d -o CMakeFiles\Textura3D.dir\common\glad.c.obj -c C:\faculdadeCG\ProjetosCG\common\glad.c
 
-CMakeFiles/Textura3D.dir/common/Src/glad.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Textura3D.dir/common/Src/glad.c.i"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\glad.c > CMakeFiles\Textura3D.dir\common\Src\glad.c.i
+CMakeFiles/Textura3D.dir/common/glad.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Textura3D.dir/common/glad.c.i"
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\glad.c > CMakeFiles\Textura3D.dir\common\glad.c.i
 
-CMakeFiles/Textura3D.dir/common/Src/glad.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Textura3D.dir/common/Src/glad.c.s"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\glad.c -o CMakeFiles\Textura3D.dir\common\Src\glad.c.s
+CMakeFiles/Textura3D.dir/common/glad.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Textura3D.dir/common/glad.c.s"
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\glad.c -o CMakeFiles\Textura3D.dir\common\glad.c.s
 
-CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
-CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
-CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Camera.cpp
-CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj -MF CMakeFiles\Textura3D.dir\common\Src\Camera.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\Src\Camera.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Camera.cpp
+CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
+CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
+CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp
+CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj -MF CMakeFiles\Textura3D.dir\common\src\Camera.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\src\Camera.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Camera.cpp
 
-CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Camera.cpp > CMakeFiles\Textura3D.dir\common\Src\Camera.cpp.i
+CMakeFiles/Textura3D.dir/common/src/Camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/src/Camera.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Camera.cpp > CMakeFiles\Textura3D.dir\common\src\Camera.cpp.i
 
-CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Camera.cpp -o CMakeFiles\Textura3D.dir\common\Src\Camera.cpp.s
+CMakeFiles/Textura3D.dir/common/src/Camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/src/Camera.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Camera.cpp -o CMakeFiles\Textura3D.dir\common\src\Camera.cpp.s
 
-CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
-CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
-CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Shader.cpp
-CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj -MF CMakeFiles\Textura3D.dir\common\Src\Shader.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\Src\Shader.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Shader.cpp
+CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
+CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
+CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp
+CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj -MF CMakeFiles\Textura3D.dir\common\src\Shader.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\src\Shader.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Shader.cpp
 
-CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Shader.cpp > CMakeFiles\Textura3D.dir\common\Src\Shader.cpp.i
+CMakeFiles/Textura3D.dir/common/src/Shader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/src/Shader.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Shader.cpp > CMakeFiles\Textura3D.dir\common\src\Shader.cpp.i
 
-CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Shader.cpp -o CMakeFiles\Textura3D.dir\common\Src\Shader.cpp.s
+CMakeFiles/Textura3D.dir/common/src/Shader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/src/Shader.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Shader.cpp -o CMakeFiles\Textura3D.dir\common\src\Shader.cpp.s
 
-CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
-CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
-CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Mesh.cpp
-CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj -MF CMakeFiles\Textura3D.dir\common\Src\Mesh.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\Src\Mesh.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Mesh.cpp
+CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
+CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
+CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp
+CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj -MF CMakeFiles\Textura3D.dir\common\src\Mesh.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\src\Mesh.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Mesh.cpp
 
-CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Mesh.cpp > CMakeFiles\Textura3D.dir\common\Src\Mesh.cpp.i
+CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Mesh.cpp > CMakeFiles\Textura3D.dir\common\src\Mesh.cpp.i
 
-CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Mesh.cpp -o CMakeFiles\Textura3D.dir\common\Src\Mesh.cpp.s
+CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Mesh.cpp -o CMakeFiles\Textura3D.dir\common\src\Mesh.cpp.s
 
-CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
-CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
-CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Curve.cpp
-CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj -MF CMakeFiles\Textura3D.dir\common\Src\Curve.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\Src\Curve.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Curve.cpp
+CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
+CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
+CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp
+CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj -MF CMakeFiles\Textura3D.dir\common\src\Curve.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\src\Curve.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Curve.cpp
 
-CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Curve.cpp > CMakeFiles\Textura3D.dir\common\Src\Curve.cpp.i
+CMakeFiles/Textura3D.dir/common/src/Curve.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/src/Curve.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Curve.cpp > CMakeFiles\Textura3D.dir\common\src\Curve.cpp.i
 
-CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Curve.cpp -o CMakeFiles\Textura3D.dir\common\Src\Curve.cpp.s
+CMakeFiles/Textura3D.dir/common/src/Curve.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/src/Curve.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Curve.cpp -o CMakeFiles\Textura3D.dir\common\src\Curve.cpp.s
 
-CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
-CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
-CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Bezier.cpp
-CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj -MF CMakeFiles\Textura3D.dir\common\Src\Bezier.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\Src\Bezier.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Bezier.cpp
+CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
+CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
+CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp
+CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj -MF CMakeFiles\Textura3D.dir\common\src\Bezier.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\src\Bezier.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Bezier.cpp
 
-CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Bezier.cpp > CMakeFiles\Textura3D.dir\common\Src\Bezier.cpp.i
+CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Bezier.cpp > CMakeFiles\Textura3D.dir\common\src\Bezier.cpp.i
 
-CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Bezier.cpp -o CMakeFiles\Textura3D.dir\common\Src\Bezier.cpp.s
+CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Bezier.cpp -o CMakeFiles\Textura3D.dir\common\src\Bezier.cpp.s
 
-CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
-CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
-CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Scene.cpp
-CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj -MF CMakeFiles\Textura3D.dir\common\Src\Scene.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\Src\Scene.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Scene.cpp
+CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj: CMakeFiles/Textura3D.dir/flags.make
+CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj: CMakeFiles/Textura3D.dir/includes_CXX.rsp
+CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp
+CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj: CMakeFiles/Textura3D.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj -MF CMakeFiles\Textura3D.dir\common\src\Scene.cpp.obj.d -o CMakeFiles\Textura3D.dir\common\src\Scene.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Scene.cpp
 
-CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Scene.cpp > CMakeFiles\Textura3D.dir\common\Src\Scene.cpp.i
+CMakeFiles/Textura3D.dir/common/src/Scene.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Textura3D.dir/common/src/Scene.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Scene.cpp > CMakeFiles\Textura3D.dir\common\src\Scene.cpp.i
 
-CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Scene.cpp -o CMakeFiles\Textura3D.dir\common\Src\Scene.cpp.s
+CMakeFiles/Textura3D.dir/common/src/Scene.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Textura3D.dir/common/src/Scene.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Scene.cpp -o CMakeFiles\Textura3D.dir\common\src\Scene.cpp.s
 
 # Object files for target Textura3D
 Textura3D_OBJECTS = \
 "CMakeFiles/Textura3D.dir/src/Textura3D.cpp.obj" \
-"CMakeFiles/Textura3D.dir/common/Src/glad.c.obj" \
-"CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj" \
-"CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj" \
-"CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj" \
-"CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj" \
-"CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj" \
-"CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj"
+"CMakeFiles/Textura3D.dir/common/glad.c.obj" \
+"CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj" \
+"CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj" \
+"CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj" \
+"CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj" \
+"CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj" \
+"CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj"
 
 # External object files for target Textura3D
 Textura3D_EXTERNAL_OBJECTS =
 
 Textura3D.exe: CMakeFiles/Textura3D.dir/src/Textura3D.cpp.obj
-Textura3D.exe: CMakeFiles/Textura3D.dir/common/Src/glad.c.obj
-Textura3D.exe: CMakeFiles/Textura3D.dir/common/Src/Camera.cpp.obj
-Textura3D.exe: CMakeFiles/Textura3D.dir/common/Src/Shader.cpp.obj
-Textura3D.exe: CMakeFiles/Textura3D.dir/common/Src/Mesh.cpp.obj
-Textura3D.exe: CMakeFiles/Textura3D.dir/common/Src/Curve.cpp.obj
-Textura3D.exe: CMakeFiles/Textura3D.dir/common/Src/Bezier.cpp.obj
-Textura3D.exe: CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj
+Textura3D.exe: CMakeFiles/Textura3D.dir/common/glad.c.obj
+Textura3D.exe: CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj
+Textura3D.exe: CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj
+Textura3D.exe: CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj
+Textura3D.exe: CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj
+Textura3D.exe: CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj
+Textura3D.exe: CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj
 Textura3D.exe: CMakeFiles/Textura3D.dir/build.make
 Textura3D.exe: _deps/glfw-build/src/libglfw3.a
 Textura3D.exe: CMakeFiles/Textura3D.dir/linkLibs.rsp

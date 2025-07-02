@@ -58,6 +58,13 @@ include_directories(${nlohmann_json_SOURCE_DIR}/single_include)
 # Lista de exemplos/exercícios podem ser colocados aqui também
 set(EXERCISES
     AtividadeGB
+    Cubo3D
+    Hello3D
+    SpherePhong
+    Textura3D
+    TriangleTex
+    modulo5
+    modulo6
    )
 
 add_compile_options(-Wno-pragmas)

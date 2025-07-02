@@ -86,133 +86,133 @@ CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.s"
 	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\src\TriangleTex.cpp -o CMakeFiles\TriangleTex.dir\src\TriangleTex.cpp.s
 
-CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj: CMakeFiles/TriangleTex.dir/flags.make
-CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj: CMakeFiles/TriangleTex.dir/includes_C.rsp
-CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj: C:/faculdadeCG/ProjetosCG/common/Src/glad.c
-CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj -MF CMakeFiles\TriangleTex.dir\common\Src\glad.c.obj.d -o CMakeFiles\TriangleTex.dir\common\Src\glad.c.obj -c C:\faculdadeCG\ProjetosCG\common\Src\glad.c
+CMakeFiles/TriangleTex.dir/common/glad.c.obj: CMakeFiles/TriangleTex.dir/flags.make
+CMakeFiles/TriangleTex.dir/common/glad.c.obj: CMakeFiles/TriangleTex.dir/includes_C.rsp
+CMakeFiles/TriangleTex.dir/common/glad.c.obj: C:/faculdadeCG/ProjetosCG/common/glad.c
+CMakeFiles/TriangleTex.dir/common/glad.c.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TriangleTex.dir/common/glad.c.obj"
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/glad.c.obj -MF CMakeFiles\TriangleTex.dir\common\glad.c.obj.d -o CMakeFiles\TriangleTex.dir\common\glad.c.obj -c C:\faculdadeCG\ProjetosCG\common\glad.c
 
-CMakeFiles/TriangleTex.dir/common/Src/glad.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/TriangleTex.dir/common/Src/glad.c.i"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\glad.c > CMakeFiles\TriangleTex.dir\common\Src\glad.c.i
+CMakeFiles/TriangleTex.dir/common/glad.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/TriangleTex.dir/common/glad.c.i"
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\glad.c > CMakeFiles\TriangleTex.dir\common\glad.c.i
 
-CMakeFiles/TriangleTex.dir/common/Src/glad.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/TriangleTex.dir/common/Src/glad.c.s"
-	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\glad.c -o CMakeFiles\TriangleTex.dir\common\Src\glad.c.s
+CMakeFiles/TriangleTex.dir/common/glad.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/TriangleTex.dir/common/glad.c.s"
+	C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\glad.c -o CMakeFiles\TriangleTex.dir\common\glad.c.s
 
-CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
-CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
-CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Camera.cpp
-CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\Src\Camera.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\Src\Camera.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Camera.cpp
+CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
+CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
+CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp
+CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\src\Camera.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\src\Camera.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Camera.cpp
 
-CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Camera.cpp > CMakeFiles\TriangleTex.dir\common\Src\Camera.cpp.i
+CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Camera.cpp > CMakeFiles\TriangleTex.dir\common\src\Camera.cpp.i
 
-CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Camera.cpp -o CMakeFiles\TriangleTex.dir\common\Src\Camera.cpp.s
+CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Camera.cpp -o CMakeFiles\TriangleTex.dir\common\src\Camera.cpp.s
 
-CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
-CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
-CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Shader.cpp
-CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\Src\Shader.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\Src\Shader.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Shader.cpp
+CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
+CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
+CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp
+CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\src\Shader.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\src\Shader.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Shader.cpp
 
-CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Shader.cpp > CMakeFiles\TriangleTex.dir\common\Src\Shader.cpp.i
+CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Shader.cpp > CMakeFiles\TriangleTex.dir\common\src\Shader.cpp.i
 
-CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Shader.cpp -o CMakeFiles\TriangleTex.dir\common\Src\Shader.cpp.s
+CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Shader.cpp -o CMakeFiles\TriangleTex.dir\common\src\Shader.cpp.s
 
-CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
-CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
-CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Mesh.cpp
-CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\Src\Mesh.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\Src\Mesh.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Mesh.cpp
+CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
+CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
+CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp
+CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\src\Mesh.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\src\Mesh.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Mesh.cpp
 
-CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Mesh.cpp > CMakeFiles\TriangleTex.dir\common\Src\Mesh.cpp.i
+CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Mesh.cpp > CMakeFiles\TriangleTex.dir\common\src\Mesh.cpp.i
 
-CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Mesh.cpp -o CMakeFiles\TriangleTex.dir\common\Src\Mesh.cpp.s
+CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Mesh.cpp -o CMakeFiles\TriangleTex.dir\common\src\Mesh.cpp.s
 
-CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
-CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
-CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Curve.cpp
-CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\Src\Curve.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\Src\Curve.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Curve.cpp
+CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
+CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
+CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp
+CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\src\Curve.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\src\Curve.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Curve.cpp
 
-CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Curve.cpp > CMakeFiles\TriangleTex.dir\common\Src\Curve.cpp.i
+CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Curve.cpp > CMakeFiles\TriangleTex.dir\common\src\Curve.cpp.i
 
-CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Curve.cpp -o CMakeFiles\TriangleTex.dir\common\Src\Curve.cpp.s
+CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Curve.cpp -o CMakeFiles\TriangleTex.dir\common\src\Curve.cpp.s
 
-CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
-CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
-CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Bezier.cpp
-CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\Src\Bezier.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\Src\Bezier.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Bezier.cpp
+CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
+CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
+CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp
+CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\src\Bezier.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\src\Bezier.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Bezier.cpp
 
-CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Bezier.cpp > CMakeFiles\TriangleTex.dir\common\Src\Bezier.cpp.i
+CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Bezier.cpp > CMakeFiles\TriangleTex.dir\common\src\Bezier.cpp.i
 
-CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Bezier.cpp -o CMakeFiles\TriangleTex.dir\common\Src\Bezier.cpp.s
+CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Bezier.cpp -o CMakeFiles\TriangleTex.dir\common\src\Bezier.cpp.s
 
-CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
-CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
-CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj: C:/faculdadeCG/ProjetosCG/common/Src/Scene.cpp
-CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\Src\Scene.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\Src\Scene.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\Src\Scene.cpp
+CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj: CMakeFiles/TriangleTex.dir/flags.make
+CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj: CMakeFiles/TriangleTex.dir/includes_CXX.rsp
+CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj: C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp
+CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj: CMakeFiles/TriangleTex.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\faculdadeCG\ProjetosCG\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj -MF CMakeFiles\TriangleTex.dir\common\src\Scene.cpp.obj.d -o CMakeFiles\TriangleTex.dir\common\src\Scene.cpp.obj -c C:\faculdadeCG\ProjetosCG\common\src\Scene.cpp
 
-CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\Src\Scene.cpp > CMakeFiles\TriangleTex.dir\common\Src\Scene.cpp.i
+CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\faculdadeCG\ProjetosCG\common\src\Scene.cpp > CMakeFiles\TriangleTex.dir\common\src\Scene.cpp.i
 
-CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\Src\Scene.cpp -o CMakeFiles\TriangleTex.dir\common\Src\Scene.cpp.s
+CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\faculdadeCG\ProjetosCG\common\src\Scene.cpp -o CMakeFiles\TriangleTex.dir\common\src\Scene.cpp.s
 
 # Object files for target TriangleTex
 TriangleTex_OBJECTS = \
 "CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.obj" \
-"CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj" \
-"CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj" \
-"CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj" \
-"CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj" \
-"CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj" \
-"CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj" \
-"CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj"
+"CMakeFiles/TriangleTex.dir/common/glad.c.obj" \
+"CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj" \
+"CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj" \
+"CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj" \
+"CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj" \
+"CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj" \
+"CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj"
 
 # External object files for target TriangleTex
 TriangleTex_EXTERNAL_OBJECTS =
 
 TriangleTex.exe: CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.obj
-TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj
-TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj
-TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj
-TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj
-TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj
-TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj
-TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj
+TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/glad.c.obj
+TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj
+TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj
+TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj
+TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj
+TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj
+TriangleTex.exe: CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj
 TriangleTex.exe: CMakeFiles/TriangleTex.dir/build.make
 TriangleTex.exe: _deps/glfw-build/src/libglfw3.a
 TriangleTex.exe: CMakeFiles/TriangleTex.dir/linkLibs.rsp

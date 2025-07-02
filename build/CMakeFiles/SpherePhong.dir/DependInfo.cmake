@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/faculdadeCG/ProjetosCG/common/Src/glad.c" "CMakeFiles/SpherePhong.dir/common/Src/glad.c.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/Src/glad.c.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Bezier.cpp" "CMakeFiles/SpherePhong.dir/common/Src/Bezier.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/Src/Bezier.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Camera.cpp" "CMakeFiles/SpherePhong.dir/common/Src/Camera.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/Src/Camera.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Curve.cpp" "CMakeFiles/SpherePhong.dir/common/Src/Curve.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/Src/Curve.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Mesh.cpp" "CMakeFiles/SpherePhong.dir/common/Src/Mesh.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/Src/Mesh.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Scene.cpp" "CMakeFiles/SpherePhong.dir/common/Src/Scene.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/Src/Scene.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Shader.cpp" "CMakeFiles/SpherePhong.dir/common/Src/Shader.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/Src/Shader.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/glad.c" "CMakeFiles/SpherePhong.dir/common/glad.c.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/glad.c.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp" "CMakeFiles/SpherePhong.dir/common/src/Bezier.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/src/Bezier.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp" "CMakeFiles/SpherePhong.dir/common/src/Camera.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/src/Camera.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp" "CMakeFiles/SpherePhong.dir/common/src/Curve.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/src/Curve.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp" "CMakeFiles/SpherePhong.dir/common/src/Mesh.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/src/Mesh.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp" "CMakeFiles/SpherePhong.dir/common/src/Scene.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/src/Scene.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp" "CMakeFiles/SpherePhong.dir/common/src/Shader.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/common/src/Shader.cpp.obj.d"
   "C:/faculdadeCG/ProjetosCG/src/SpherePhong.cpp" "CMakeFiles/SpherePhong.dir/src/SpherePhong.cpp.obj" "gcc" "CMakeFiles/SpherePhong.dir/src/SpherePhong.cpp.obj.d"
   )
 

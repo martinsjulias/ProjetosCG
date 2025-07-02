@@ -121,6 +121,13 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/AtividadeGB.dir/DependInfo.cmake"
+  "CMakeFiles/Cubo3D.dir/DependInfo.cmake"
+  "CMakeFiles/Hello3D.dir/DependInfo.cmake"
+  "CMakeFiles/SpherePhong.dir/DependInfo.cmake"
+  "CMakeFiles/Textura3D.dir/DependInfo.cmake"
+  "CMakeFiles/TriangleTex.dir/DependInfo.cmake"
+  "CMakeFiles/modulo5.dir/DependInfo.cmake"
+  "CMakeFiles/modulo6.dir/DependInfo.cmake"
   "_deps/glfw-build/CMakeFiles/uninstall.dir/DependInfo.cmake"
   "_deps/glfw-build/src/CMakeFiles/glfw.dir/DependInfo.cmake"
   "_deps/glfw-build/src/CMakeFiles/update_mappings.dir/DependInfo.cmake"

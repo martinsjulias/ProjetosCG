@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/faculdadeCG/ProjetosCG/common/Src/glad.c" "CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/Src/glad.c.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Bezier.cpp" "CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/Src/Bezier.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Camera.cpp" "CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/Src/Camera.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Curve.cpp" "CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/Src/Curve.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Mesh.cpp" "CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/Src/Mesh.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Scene.cpp" "CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/Src/Scene.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/Src/Shader.cpp" "CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/Src/Shader.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/glad.c" "CMakeFiles/TriangleTex.dir/common/glad.c.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/glad.c.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp" "CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp" "CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp" "CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp" "CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp" "CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj.d"
+  "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp" "CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj.d"
   "C:/faculdadeCG/ProjetosCG/src/TriangleTex.cpp" "CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.obj" "gcc" "CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.obj.d"
   )
 

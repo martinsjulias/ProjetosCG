@@ -1,4 +1,11 @@
 C:/faculdadeCG/ProjetosCG/build/CMakeFiles/AtividadeGB.dir
+C:/faculdadeCG/ProjetosCG/build/CMakeFiles/Cubo3D.dir
+C:/faculdadeCG/ProjetosCG/build/CMakeFiles/Hello3D.dir
+C:/faculdadeCG/ProjetosCG/build/CMakeFiles/SpherePhong.dir
+C:/faculdadeCG/ProjetosCG/build/CMakeFiles/Textura3D.dir
+C:/faculdadeCG/ProjetosCG/build/CMakeFiles/TriangleTex.dir
+C:/faculdadeCG/ProjetosCG/build/CMakeFiles/modulo5.dir
+C:/faculdadeCG/ProjetosCG/build/CMakeFiles/modulo6.dir
 C:/faculdadeCG/ProjetosCG/build/CMakeFiles/edit_cache.dir
 C:/faculdadeCG/ProjetosCG/build/CMakeFiles/rebuild_cache.dir
 C:/faculdadeCG/ProjetosCG/build/CMakeFiles/list_install_components.dir

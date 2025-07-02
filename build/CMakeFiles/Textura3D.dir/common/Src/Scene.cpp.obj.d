@@ -1,5 +1,5 @@
-CMakeFiles/Textura3D.dir/common/Src/Scene.cpp.obj: \
- C:\faculdadeCG\ProjetosCG\common\Src\Scene.cpp \
+CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj: \
+ C:\faculdadeCG\ProjetosCG\common\src\Scene.cpp \
  C:/faculdadeCG/ProjetosCG/common/Scene.h \
  C:/msys64/ucrt64/include/c++/14.2.0/string \
  C:/msys64/ucrt64/include/c++/14.2.0/bits/requires_hosted.h \

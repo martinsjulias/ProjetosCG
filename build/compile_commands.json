@@ -48,6 +48,342 @@
   "output": "CMakeFiles/AtividadeGB.dir/common/src/Scene.cpp.obj"
 },
 {
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cubo3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\src\\Cubo3D.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\src\\Cubo3D.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/src/Cubo3D.cpp",
+  "output": "CMakeFiles/Cubo3D.dir/src/Cubo3D.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Cubo3D.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\common\\glad.c.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\glad.c",
+  "file": "C:/faculdadeCG/ProjetosCG/common/glad.c",
+  "output": "CMakeFiles/Cubo3D.dir/common/glad.c.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cubo3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\common\\src\\Camera.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Camera.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp",
+  "output": "CMakeFiles/Cubo3D.dir/common/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cubo3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\common\\src\\Shader.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Shader.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp",
+  "output": "CMakeFiles/Cubo3D.dir/common/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cubo3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\common\\src\\Mesh.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Mesh.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp",
+  "output": "CMakeFiles/Cubo3D.dir/common/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cubo3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\common\\src\\Curve.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Curve.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp",
+  "output": "CMakeFiles/Cubo3D.dir/common/src/Curve.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cubo3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\common\\src\\Bezier.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Bezier.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp",
+  "output": "CMakeFiles/Cubo3D.dir/common/src/Bezier.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cubo3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Cubo3D.dir\\common\\src\\Scene.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Scene.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp",
+  "output": "CMakeFiles/Cubo3D.dir/common/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Hello3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\src\\Hello3D.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\src\\Hello3D.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/src/Hello3D.cpp",
+  "output": "CMakeFiles/Hello3D.dir/src/Hello3D.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Hello3D.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\common\\glad.c.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\glad.c",
+  "file": "C:/faculdadeCG/ProjetosCG/common/glad.c",
+  "output": "CMakeFiles/Hello3D.dir/common/glad.c.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Hello3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\common\\src\\Camera.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Camera.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp",
+  "output": "CMakeFiles/Hello3D.dir/common/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Hello3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\common\\src\\Shader.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Shader.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp",
+  "output": "CMakeFiles/Hello3D.dir/common/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Hello3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\common\\src\\Mesh.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Mesh.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp",
+  "output": "CMakeFiles/Hello3D.dir/common/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Hello3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\common\\src\\Curve.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Curve.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp",
+  "output": "CMakeFiles/Hello3D.dir/common/src/Curve.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Hello3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\common\\src\\Bezier.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Bezier.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp",
+  "output": "CMakeFiles/Hello3D.dir/common/src/Bezier.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Hello3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Hello3D.dir\\common\\src\\Scene.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Scene.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp",
+  "output": "CMakeFiles/Hello3D.dir/common/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SpherePhong.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\src\\SpherePhong.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\src\\SpherePhong.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/src/SpherePhong.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/src/SpherePhong.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/SpherePhong.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\common\\glad.c.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\glad.c",
+  "file": "C:/faculdadeCG/ProjetosCG/common/glad.c",
+  "output": "CMakeFiles/SpherePhong.dir/common/glad.c.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SpherePhong.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\common\\src\\Camera.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Camera.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/common/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SpherePhong.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\common\\src\\Shader.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Shader.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/common/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SpherePhong.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\common\\src\\Mesh.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Mesh.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/common/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SpherePhong.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\common\\src\\Curve.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Curve.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/common/src/Curve.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SpherePhong.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\common\\src\\Bezier.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Bezier.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/common/src/Bezier.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SpherePhong.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\SpherePhong.dir\\common\\src\\Scene.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Scene.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/common/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Textura3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\src\\Textura3D.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\src\\Textura3D.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/src/Textura3D.cpp",
+  "output": "CMakeFiles/Textura3D.dir/src/Textura3D.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Textura3D.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\common\\glad.c.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\glad.c",
+  "file": "C:/faculdadeCG/ProjetosCG/common/glad.c",
+  "output": "CMakeFiles/Textura3D.dir/common/glad.c.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Textura3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\common\\src\\Camera.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Camera.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp",
+  "output": "CMakeFiles/Textura3D.dir/common/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Textura3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\common\\src\\Shader.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Shader.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp",
+  "output": "CMakeFiles/Textura3D.dir/common/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Textura3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\common\\src\\Mesh.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Mesh.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp",
+  "output": "CMakeFiles/Textura3D.dir/common/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Textura3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\common\\src\\Curve.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Curve.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp",
+  "output": "CMakeFiles/Textura3D.dir/common/src/Curve.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Textura3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\common\\src\\Bezier.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Bezier.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp",
+  "output": "CMakeFiles/Textura3D.dir/common/src/Bezier.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Textura3D.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\Textura3D.dir\\common\\src\\Scene.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Scene.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp",
+  "output": "CMakeFiles/Textura3D.dir/common/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TriangleTex.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\src\\TriangleTex.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\src\\TriangleTex.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/src/TriangleTex.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/TriangleTex.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\common\\glad.c.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\glad.c",
+  "file": "C:/faculdadeCG/ProjetosCG/common/glad.c",
+  "output": "CMakeFiles/TriangleTex.dir/common/glad.c.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TriangleTex.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\common\\src\\Camera.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Camera.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/common/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TriangleTex.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\common\\src\\Shader.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Shader.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/common/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TriangleTex.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\common\\src\\Mesh.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Mesh.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/common/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TriangleTex.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\common\\src\\Curve.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Curve.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/common/src/Curve.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TriangleTex.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\common\\src\\Bezier.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Bezier.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/common/src/Bezier.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TriangleTex.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\TriangleTex.dir\\common\\src\\Scene.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Scene.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/common/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo5.dir\\src\\modulo5.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\src\\modulo5.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/src/modulo5.cpp",
+  "output": "CMakeFiles/modulo5.dir/src/modulo5.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/modulo5.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\modulo5.dir\\common\\glad.c.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\glad.c",
+  "file": "C:/faculdadeCG/ProjetosCG/common/glad.c",
+  "output": "CMakeFiles/modulo5.dir/common/glad.c.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo5.dir\\common\\src\\Camera.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Camera.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp",
+  "output": "CMakeFiles/modulo5.dir/common/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo5.dir\\common\\src\\Shader.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Shader.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp",
+  "output": "CMakeFiles/modulo5.dir/common/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo5.dir\\common\\src\\Mesh.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Mesh.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp",
+  "output": "CMakeFiles/modulo5.dir/common/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo5.dir\\common\\src\\Curve.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Curve.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp",
+  "output": "CMakeFiles/modulo5.dir/common/src/Curve.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo5.dir\\common\\src\\Bezier.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Bezier.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp",
+  "output": "CMakeFiles/modulo5.dir/common/src/Bezier.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo5.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo5.dir\\common\\src\\Scene.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Scene.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp",
+  "output": "CMakeFiles/modulo5.dir/common/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo6.dir\\src\\modulo6.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\src\\modulo6.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/src/modulo6.cpp",
+  "output": "CMakeFiles/modulo6.dir/src/modulo6.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/modulo6.dir/includes_C.rsp -g -Wno-pragmas -o CMakeFiles\\modulo6.dir\\common\\glad.c.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\glad.c",
+  "file": "C:/faculdadeCG/ProjetosCG/common/glad.c",
+  "output": "CMakeFiles/modulo6.dir/common/glad.c.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo6.dir\\common\\src\\Camera.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Camera.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp",
+  "output": "CMakeFiles/modulo6.dir/common/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo6.dir\\common\\src\\Shader.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Shader.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp",
+  "output": "CMakeFiles/modulo6.dir/common/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo6.dir\\common\\src\\Mesh.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Mesh.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp",
+  "output": "CMakeFiles/modulo6.dir/common/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo6.dir\\common\\src\\Curve.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Curve.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp",
+  "output": "CMakeFiles/modulo6.dir/common/src/Curve.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo6.dir\\common\\src\\Bezier.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Bezier.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp",
+  "output": "CMakeFiles/modulo6.dir/common/src/Bezier.cpp.obj"
+},
+{
+  "directory": "C:/faculdadeCG/ProjetosCG/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/modulo6.dir/includes_CXX.rsp -g -std=gnu++17 -Wno-pragmas -o CMakeFiles\\modulo6.dir\\common\\src\\Scene.cpp.obj -c C:\\faculdadeCG\\ProjetosCG\\common\\src\\Scene.cpp",
+  "file": "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp",
+  "output": "CMakeFiles/modulo6.dir/common/src/Scene.cpp.obj"
+},
+{
   "directory": "C:/faculdadeCG/ProjetosCG/build/_deps/glfw-build/src",
   "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\faculdadeCG\\ProjetosCG\\build\\_deps\\glfw-src\\src\\context.c",
   "file": "C:/faculdadeCG/ProjetosCG/build/_deps/glfw-src/src/context.c",
