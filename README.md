@@ -17,3 +17,6 @@ Módulo 3 - Triangulo Texturizado
 Módulo 4 - Adicionando Iluminação
 
 ![image](https://github.com/user-attachments/assets/106375c0-912c-4d3f-8579-0df6993c5ed5)
+
+Módulo 5 - 
+Módulo 6 -
