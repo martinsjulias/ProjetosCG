@@ -1,5 +1,7 @@
 # ProjetosCG
 
+Link Video prova GB - https://drive.google.com/file/d/1-qJO9FGppGSPaFW0YWphaXP6IFs2wi89/view?usp=sharing
+
 Júlia Martins - Computação Gráfica
 
 Módulo 1 - Hello 3D
