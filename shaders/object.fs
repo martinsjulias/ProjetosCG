@@ -6,7 +6,7 @@ struct Material {
     vec3 Kd;
     vec3 Ks;
     float Ns;
-};
+}; 
 
 struct Light {
     vec3 position;
@@ -25,7 +25,7 @@ in vec3 FragPos;
 in vec2 TexCoord;
 
 void main()
-{
+{    
     // Ambient
     vec3 ambient = light.ambient * material.Ka;
 
@@ -37,9 +37,9 @@ void main()
 
     // Specular
     vec3 viewDir = normalize(viewPos - FragPos);
-    vec3 reflectDir = reflect(-lightDir, norm);
+    vec3 reflectDir = reflect(-lightDir, norm);  
     float spec = pow(max(dot(viewDir, reflectDir), 0.0), material.Ns);
-    vec3 specular = light.specular * (spec * material.Ks);
+    vec3 specular = light.specular * (spec * material.Ks);  
 
     vec3 result = (ambient + diffuse + specular) * texture(texture_diffuse1, TexCoord).rgb;
     FragColor = vec4(result, 1.0);

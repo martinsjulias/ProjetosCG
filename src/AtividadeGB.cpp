@@ -63,15 +63,15 @@ int main()
     glfwGetFramebufferSize(window, &width, &height); 
     glViewport(0, 0, width, height);
 
-    cout << "Teste " << __LINE__  << endl;
+    Shader objectShader("C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/shaders/object.vs", "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/shaders/object.fs");
 
-    Shader objectShader("C:/faculdadeCG/ProjetosCG/shaders/object.vs", "C:/faculdadeCG/ProjetosCG/shaders/object.fs");
+    cout << "Teste " + __LINE__ << endl;
 
-    cout << "Teste " << __LINE__  << endl;
+    Shader curveShader("C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/shaders/curve.vs", "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/shaders/curve.fs");
 
-    Shader curveShader("../shaders/curve.vs", "../shaders/curve.fs");
+    cout << "Teste " + __LINE__ << endl;
 
-    if (!scene.loadConfig("../assets/config.json")) {
+    if (!scene.loadConfig("C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/assets/config.json")) {
         std::cerr << "Failed to load scene configuration. Exiting." << std::endl;
         glfwTerminate();
         return -1;
@@ -157,8 +157,6 @@ void key_callback(GLFWwindow* window, int key, int scancode, int action, int mod
 {
     float scaleStep = 0.05f;
     float translateStep = 0.1f;
-
-    cout << "teste" << __LINE__ << endl; 
 
     if (key == GLFW_KEY_ESCAPE && action == GLFW_PRESS)
         glfwSetWindowShouldClose(window, GL_TRUE);
@@ -249,9 +247,6 @@ void key_callback(GLFWwindow* window, int key, int scancode, int action, int mod
 
 void mouse_callback(GLFWwindow* window, double xpos, double ypos)
 {
-
-    cout << "teste" << __LINE__ << endl; 
-
     camera.mouseCallback(window, xpos, ypos);
 }
 

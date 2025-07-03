@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/faculdadeCG/ProjetosCG/common/glad.c" "CMakeFiles/AtividadeGB.dir/common/glad.c.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/glad.c.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/src/Bezier.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Bezier.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Bezier.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/src/Camera.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Camera.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Camera.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/src/Curve.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Curve.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Curve.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/src/Mesh.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Mesh.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Mesh.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/src/Scene.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Scene.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Scene.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/common/src/Shader.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Shader.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Shader.cpp.obj.d"
-  "C:/faculdadeCG/ProjetosCG/src/AtividadeGB.cpp" "CMakeFiles/AtividadeGB.dir/src/AtividadeGB.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/src/AtividadeGB.cpp.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/common/glad.c" "CMakeFiles/AtividadeGB.dir/common/glad.c.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/glad.c.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/common/src/Bezier.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Bezier.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Bezier.cpp.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/common/src/Camera.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Camera.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Camera.cpp.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/common/src/Curve.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Curve.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Curve.cpp.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/common/src/Mesh.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Mesh.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Mesh.cpp.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/common/src/Scene.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Scene.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Scene.cpp.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/common/src/Shader.cpp" "CMakeFiles/AtividadeGB.dir/common/src/Shader.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/common/src/Shader.cpp.obj.d"
+  "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/src/AtividadeGB.cpp" "CMakeFiles/AtividadeGB.dir/src/AtividadeGB.cpp.obj" "gcc" "CMakeFiles/AtividadeGB.dir/src/AtividadeGB.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

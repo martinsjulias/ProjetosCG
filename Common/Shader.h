@@ -25,9 +25,6 @@ public:
         vShaderFile.exceptions(std::ifstream::failbit | std::ifstream::badbit);
         fShaderFile.exceptions(std::ifstream::failbit | std::ifstream::badbit);
 
-        std::cout << "vertexPath = " << vertexPath << endl;
-        std::cout << "fragmentPath = " << fragmentPath << endl << endl;
-
         // Open Shaders
         try {
             vShaderFile.open(vertexPath);
@@ -61,9 +58,6 @@ public:
         
         const GLchar* vShaderCode = vertexCode.c_str();
         const GLchar * fShaderCode = fragmentCode.c_str();
-
-        std::cout << "vShaderCode = " << vertexCode.c_str() << endl << endl;
-        std::cout << "fShaderCode = " << fragmentCode.c_str() << endl << endl;
 
         GLuint vertex, fragment;
         GLint success;
@@ -99,8 +93,6 @@ public:
         }
         glDeleteShader(vertex);
         glDeleteShader(fragment);
-
-        std::cout << "Teste Final Constructor Shader" << std::endl;
 
     }
     void Use()

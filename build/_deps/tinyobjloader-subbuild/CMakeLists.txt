@@ -1,7 +1,7 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
 # file LICENSE.rst or https://cmake.org/licensing for details.
 
-cmake_minimum_required(VERSION 4.0.2)
+cmake_minimum_required(VERSION 4.1.0-rc1)
 
 # Reject any attempt to use a toolchain file. We must not use one because
 # we could be downloading it here. If the CMAKE_TOOLCHAIN_FILE environment
@@ -19,17 +19,17 @@ project(tinyobjloader-populate NONE)
 # Pass through things we've already detected in the main project to avoid
 # paying the cost of redetecting them again in ExternalProject_Add()
 set(GIT_EXECUTABLE [==[C:/Program Files/Git/cmd/git.exe]==])
-set(GIT_VERSION_STRING [==[2.50.0.windows.1]==])
+set(GIT_VERSION_STRING [==[2.50.0.windows.2]==])
 set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
-  [==[C:/Program Files/Git/cmd/git.exe;2.50.0.windows.1]==]
+  [==[C:/Program Files/Git/cmd/git.exe;2.50.0.windows.2]==]
 )
 
 
 include(ExternalProject)
 ExternalProject_Add(tinyobjloader-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/tinyobjloader/tinyobjloader.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "GIT_TAG" "v2.0.0rc13"
-                    SOURCE_DIR          "C:/faculdadeCG/ProjetosCG/build/_deps/tinyobjloader-src"
-                    BINARY_DIR          "C:/faculdadeCG/ProjetosCG/build/_deps/tinyobjloader-build"
+                    SOURCE_DIR          "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/tinyobjloader-src"
+                    BINARY_DIR          "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/tinyobjloader-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

@@ -46,7 +46,7 @@
       "name": "Cube",
       "obj_path": "Modelos3D/Cube.obj",
       "mtl_path": "Modelos3D/Cube.mtl",
-      "texture_path": "tex/pixelWall.png",
+      "texture_path": "tex/happycube.png",
       "initial_transform": {
         "position": [-2.0, 0.0, 0.0],
         "rotation_angle": 45.0,
@@ -70,7 +70,7 @@
       "name": "Arvore",
       "obj_path": "Modelos3D/DeadTree.obj",
       "mtl_path": "Modelos3D/DeadTree.mtl",
-      "texture_path": "tex/7.png",
+      "texture_path": "tex/pink.jpg",
       "initial_transform": {
         "position": [0.0, 0.0, -1.0],
         "rotation_angle": 0.0,

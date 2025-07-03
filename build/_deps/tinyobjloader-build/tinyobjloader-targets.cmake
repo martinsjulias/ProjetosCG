@@ -7,7 +7,7 @@ if(CMAKE_VERSION VERSION_LESS "2.8.3")
    message(FATAL_ERROR "CMake >= 2.8.3 required")
 endif()
 cmake_policy(PUSH)
-cmake_policy(VERSION 2.8.3...3.30)
+cmake_policy(VERSION 2.8.3...3.31)
 #----------------------------------------------------------------
 # Generated CMake target import file.
 #----------------------------------------------------------------
@@ -50,14 +50,14 @@ unset(_cmake_expected_targets)
 add_library(tinyobjloader STATIC IMPORTED)
 
 set_target_properties(tinyobjloader PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "C:/faculdadeCG/ProjetosCG/build/_deps/tinyobjloader-src"
+  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/tinyobjloader-src"
 )
 
 # Import target "tinyobjloader" for configuration "Debug"
 set_property(TARGET tinyobjloader APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(tinyobjloader PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "CXX"
-  IMPORTED_LOCATION_DEBUG "C:/faculdadeCG/ProjetosCG/build/_deps/tinyobjloader-build/libtinyobjloader.a"
+  IMPORTED_LOCATION_DEBUG "C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/tinyobjloader-build/libtinyobjloader.a"
   )
 
 # This file does not depend on other imported targets which have

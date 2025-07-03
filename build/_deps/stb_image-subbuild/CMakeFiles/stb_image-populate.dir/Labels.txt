@@ -1,14 +1,14 @@
 # Target labels
  stb_image-populate
 # Source files and their labels
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate-complete.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-build.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-configure.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-download.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-install.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-mkdir.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-patch.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-test.rule
-C:/faculdadeCG/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-update.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate-complete.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-build.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-configure.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-download.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-install.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-mkdir.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-patch.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-test.rule
+C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-update.rule

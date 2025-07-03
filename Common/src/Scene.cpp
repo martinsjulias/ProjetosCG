@@ -7,7 +7,7 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
 
-Scene::Scene() : basePath("../assets/") {}
+Scene::Scene() : basePath("C:/Users/bruno/Documents/Julia_Teste/ProjetosCG/assets/") {}
 
 bool Scene::loadConfig(const std::string& configFilePath) {
     std::ifstream file(configFilePath);

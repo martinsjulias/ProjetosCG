@@ -1,4 +1,4 @@
-Link Video prova GB - https://drive.google.com/file/d/1-qJO9FGppGSPaFW0YWphaXP6IFs2wi89/view?usp=sharing
+Link Video prova GB - [https://drive.google.com/file/d/1-qJO9FGppGSPaFW0YWphaXP6IFs2wi89/view?usp=sharing](https://drive.google.com/drive/folders/1bN9Vit0n_kcHlhtYQ4PnkBPmfI1xHGli?usp=sharing)
 
 Júlia Martins - Computação Gráfica
 
@@ -17,3 +17,10 @@ Módulo 3 - Triangulo Texturizado
 Módulo 4 - Adicionando Iluminação
 
 ![image](https://github.com/user-attachments/assets/106375c0-912c-4d3f-8579-0df6993c5ed5)
+
+Módulo 5 - 
+Módulo 6 -
+
+Prova GB 
+
+![image](https://github.com/user-attachments/assets/2693eae0-eda2-40ce-9fe9-4660acbaf9f1)
